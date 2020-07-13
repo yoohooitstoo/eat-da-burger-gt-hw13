@@ -1,0 +1,27 @@
+{
+  "name": "eat-da-burger-gt-hw13",
+  "version": "1.0.0",
+  "description": "# Node Express Handlebars",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoohooitstoo/eat-da-burger-gt-hw13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoohooitstoo/eat-da-burger-gt-hw13/issues"
+  },
+  "homepage": "https://github.com/yoohooitstoo/eat-da-burger-gt-hw13#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.0.0",
+    "mysql": "^2.18.1"
+  }
+}
